@@ -24,10 +24,11 @@ THEN I find a concise, descriptive title
 
 Screenshot
 
-
+![Screenshot of site top](./assets/images/screenshot-top-of-site.png)
+![Screenshot of site bottom](./assets/images/screenshot-bottom-of-site.png)
 
 Link to site
 
 
 File Challenge Module 1
-https://github.com/Thomas-Barnhart/Challenge-Module-1.git
+https://github.com/Thomas-Barnhart/Code-Refactor.git
